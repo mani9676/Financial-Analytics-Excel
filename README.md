@@ -88,8 +88,8 @@ The repository contains the following reports:
 I would love to hear your thoughts on this analysis! Feel free to **fork** this repository or connect with me for collaboration.  
 
 ✉️ Contact Me:  
-- LinkedIn: [Your LinkedIn Profile]  
-- GitHub: [Your GitHub Profile]  
-- Email: [Your Email]  
+- **GitHub:** [mani9676](https://github.com/mani9676)  
+- **Email:** [manitejareddy000@gmail.com](mailto:manitejareddy000@gmail.com)  
+- **LinkedIn:** [Maniteja Reddy Toorpu](https://www.linkedin.com/in/maniteja-reddy-toorpu-b810b5193/)  
 
 🚀 **If you find this useful, don’t forget to star ⭐ this repository!**
