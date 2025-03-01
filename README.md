@@ -11,12 +11,12 @@ The financial reports help **business leaders, investors, and analysts** underst
 The repository contains the following reports:
 
 ### 📈 **Profit & Loss (P&L) Reports**  
-- **[`P&L_Report.pdf`](./P&L_Report.pdf)** → Yearly financial overview (2019-2021).  
-- **[`P&L_Quarters.pdf`](./P&L_Quarters.pdf)** → P&L breakdown by quarters.  
-- **[`P&L_Markets.pdf`](./P&L_Markets.pdf)** → Market-specific financial performance.  
+- 📄 [P&L Report](./P&L%20report.pdf) → Yearly financial overview (2019-2021).  
+- 📄 [P&L Quarters](./P%20%26L%20Quaters.pdf) → P&L breakdown by quarters.  
+- 📄 [P&L Markets](./P%20%26L%20markets.pdf) → Market-specific financial performance.  
 
 ### 📊 **Gross Margin (GM) Reports**  
-- **[`GM_by_Quarter.pdf`](./GM_by_Quarter.pdf)** → Gross Margin analysis per quarter.  
+- 📄 [GM by Quarter](./Gm%20by%20Quater.pdf) → Gross Margin analysis per quarter.  
 
 ---
 
